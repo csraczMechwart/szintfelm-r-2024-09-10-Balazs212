@@ -6,6 +6,7 @@
         {
             Feladat f = new Feladat();
             f.Feladat2();
+            f.Feladat3();
         }
     }
 }
