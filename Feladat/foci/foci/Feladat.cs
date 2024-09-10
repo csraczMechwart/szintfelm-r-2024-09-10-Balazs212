@@ -58,5 +58,10 @@ namespace foci
                 }
             }
         }
+
+        public void Feladat4()
+        {
+            Console.WriteLine("\n4. feladat:");
+        }
     }
 }
