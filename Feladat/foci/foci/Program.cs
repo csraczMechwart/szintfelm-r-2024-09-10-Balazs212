@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Feladat f = new Feladat();
+            f.Feladat2();
         }
     }
 }
